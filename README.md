@@ -1,6 +1,6 @@
 # easy_html
 
-easy_html is a simple module that help quickly build html file with page.
+easy_html is a simple module that help quickly build html file with python.
 
 ## installing
 
